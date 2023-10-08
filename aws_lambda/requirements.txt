@@ -1,0 +1,13 @@
+onnx==1.14.1
+onnxruntime
+rich
+aiocache
+huggingface_hub
+optimum
+transformers
+opencv-python-headless
+insightface
+torch
+clip_server
+torchvision
+urllib3

@@ -1,3 +1,6 @@
+aws_lambda/deploy.sh
+shim/deploy.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

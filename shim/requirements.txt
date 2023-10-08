@@ -1,0 +1,6 @@
+orjson
+fastapi
+boto3
+uvicorn
+gunicorn
+python-multipart
