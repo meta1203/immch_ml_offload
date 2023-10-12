@@ -9,7 +9,7 @@ from rich.logging import RichHandler
 from .schemas import ModelType
 
 class Settings(BaseSettings):
-    cache_folder: str = "./cache"
+    cache_folder: str = "/cache"
     model_ttl: int = 0
     workers: int = 1
     test_full: bool = False
